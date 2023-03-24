@@ -5,6 +5,8 @@ package Evaluacion2;
  * Tiene métodos para sumar todos los valores de la tabla, devolver el valor mayor de la tabla 
  * y devolver la posición en el array de uno de los enteros de la tabla
  * 
+ * COMENTARIO EN NUEVA RAMA
+ * 
  * @author DAM-1
  * @since 24/3/2023
  * @see <a href="https://github.com/JosemiGuerrero/evaluacion2">Ver Repositorio Git</a>
